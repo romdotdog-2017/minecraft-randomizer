@@ -1,5 +1,5 @@
 # Minecraft Resource Pack Randomizer
-* *Created:* April 15th 2017 7:14:10 PM CST
+* *Created:* April 15, 2017 7:14:10 PM CST
 * *Last updated:* March 20, 2019 5:23:24 PM CST
 * **DISCLAIMER:** I'm not responsible for your minecraft installation or for improper use.
 * **NOTE:** If you follow the instructions for 1.13, you could probably play on a slightly later version without much of a differing experience.
